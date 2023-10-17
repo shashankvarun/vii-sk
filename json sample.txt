@@ -1,0 +1,8 @@
+feat: add a new feature
+
+This commit adds a new feature to the project.
+
+{
+  "featureName": "New Feature",
+  "description": "This feature enhances the project by providing..."
+}
