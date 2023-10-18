@@ -1,2 +1,0 @@
-user=shashank
-password=Shashank112233
